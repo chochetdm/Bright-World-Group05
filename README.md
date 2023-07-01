@@ -13,6 +13,6 @@
 =======================================
 Documentations : https://github.com/chochetdm/Bright-World-Group05/tree/main/Documentations
 =======================================
-Published website : https://l3nhan.github.io/doodle_group01/
+Published website : https://chochetdm.github.io/Bright-World-Group05/
 =======================================
 Thank you for visit our website.
