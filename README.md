@@ -11,7 +11,7 @@
 04. Lê Nguyễn Anh Văn 		(Student1448423)
   
 =======================================
-Documentations : https://github.com/L3nhan/doodle_group01/tree/main/Documentations
+Documentations : https://github.com/chochetdm/Bright-World-Group05/tree/main/Documentations
 =======================================
 Published website : https://l3nhan.github.io/doodle_group01/
 =======================================
